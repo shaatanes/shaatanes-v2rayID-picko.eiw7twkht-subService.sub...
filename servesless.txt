@@ -479,7 +479,7 @@
     "donate2": "USDT (TRC20): TU5gKvKqcXPn8itp1DouBCwcqGHMemBm8o",
     "donate3": "TON (TON): UQAc-mZB3y7uxWHKiMmq0ORZEYgycWDWZ4V1k73HsXvTJx-i"
   },
-  "remarks": "🇮🇷⃝¹  |  𝐏⃢𝐂𝐊 ʜɪɢʜ ᴅᴇʟᴀʏ",
+  "remarks": "🇮🇷⃝²  |  𝐏⃢𝐂𝐊 ʜɪɢʜ ᴅᴇʟᴀʏ",
   "version": {
     "min": "26.6.27"
   },
@@ -1012,7 +1012,7 @@
     "donate2": "USDT (TRC20): TU5gKvKqcXPn8itp1DouBCwcqGHMemBm8o",
     "donate3": "TON (TON): UQAc-mZB3y7uxWHKiMmq0ORZEYgycWDWZ4V1k73HsXvTJx-i"
   },
-  "remarks": "🇮🇷⃝¹  |  𝐏⃢𝐂𝐊 ᴜ ᴅ ᴘ",
+  "remarks": "🇮🇷⃝³  |  𝐏⃢𝐂𝐊 ᴜ ᴅ ᴘ",
   "version": {
     "min": "26.6.27"
   },
